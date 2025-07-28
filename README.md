@@ -1,4 +1,4 @@
-![E-Commerce Sales Dashboard](Dashboard.png)
+![E-Commerce Sales Dashboard](E-commerce_web_design_EWM_SA_Digital_Agency_Geneva.jpg)
 🛒 E-Commerce Sales Analysis
 This repository contains an end-to-end analysis of e-commerce sales data, focusing on identifying key trends, customer behavior, and actionable insights to enhance business performance. The analysis covers various aspects, from data cleaning and preprocessing to in-depth visualizations and strategic recommendations.
 
