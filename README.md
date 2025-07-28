@@ -1,4 +1,6 @@
-# 🛒 E-Commerce Sales Analysis (Python Project)
+# 🛒 E-Commerce Sales Analysis 
+
+![E-Commerce Sales Dashboard](E-commerce_web_design_EWM_SA_Digital_Agency_Geneva.jpg)
 
 This project presents an end-to-end **analysis of e-commerce sales data** using Python. It focuses on identifying key trends, customer behavior, fulfillment performance, and actionable insights to support data-driven decision-making and business growth.
 
